@@ -21,4 +21,5 @@ This dashboard provides insights into:
 - **Excel / CSV** — data source  
 
 ## Dashboard View
-Coffee Shop Dashboard.pdf (https://github.com/Gagan-Kumar-Profile/coffee-shop-sales-dashboard-SQL-POWER-BI-DAX-Analysis/blob/main/Coffee%20Shop%20Dashboard.pdf)
+Coffee Shop Dashboard.pdf
+![Dashboard Preview](https://github.com/Gagan-Kumar-Profile/coffee-shop-sales-dashboard-SQL-POWER-BI-DAX-Analysis/blob/main/Coffee%20Shop%20Dashboard.pdf)
